@@ -1,4 +1,4 @@
-<?php
+232<?php
 
 // Kết nối CSDL qua PDO
 function app_url(string $path = ''): string {
